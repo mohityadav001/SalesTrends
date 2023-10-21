@@ -1,4 +1,4 @@
-1. SQL database dump is in db_dump.sql file above.
+1. SQL database dump is in db_dump.sql file.
 
 ### Data Analysis Using SQL
 
@@ -10,7 +10,7 @@
 
     `SELECT count(*) FROM customers;`
 
-1.  Show transactions for Chennai market (market code for chennai is Mark001
+1.  Show transactions for Chennai market (market code for chennai is Mark001)
 
     `SELECT * FROM transactions where market_code='Mark001';`
 
